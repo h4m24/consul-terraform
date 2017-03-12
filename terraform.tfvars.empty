@@ -1,0 +1,8 @@
+access_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+secret_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+main_ami = "ami-a192bad2"
+ec2_size = "t2.micro"
+ec2_region = "eu-west-1"
+security_group_id = "sg-b8919dde"
+num_of_servers = "3"
+terraform-ssh-key = "terraform-ssh-key"
